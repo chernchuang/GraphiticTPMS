@@ -1,1 +1,2 @@
-Graphics3D[Triangle[{{0, 0, 0}, {1, 0, 0}, {0, 1, 1}}] ]
+Graphics3D[{ (* ...primitives and directives... *) },
+   BoxRatios->{1,4,9} (* ...options... *)]
